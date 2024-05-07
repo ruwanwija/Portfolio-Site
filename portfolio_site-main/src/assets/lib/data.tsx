@@ -45,7 +45,7 @@ export const headerIntroData = {
   },
   subtitle: "Starter Fullstack Developer ",
   description: {
-    en: "I'm Ruwan, a fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
+    en: "I'm Ruwan, a starter fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
   },
   buttons: [
     {
