@@ -4,7 +4,6 @@ import axios from "axios";
 import { Highlight, themes } from "prism-react-renderer";
 import { contactData, toastMessages } from "../assets/lib/data.tsx";
 import { useSectionInView } from "../assets/lib/hooks";
-import { useLanguage } from "../context/language-context";
 import { ToastContainer, toast } from "react-toastify";
 import { useTheme } from "../context/theme-context";
 import { motion, useScroll, useTransform } from "framer-motion";
