@@ -152,7 +152,6 @@ export const projectsData = [
 
 export const liveTickerData = {
   content: {
-    de: "Weitere Projekte auf Github",
     en: "More Projects on Github",
   },
 } as const;
